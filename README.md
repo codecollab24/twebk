@@ -55,3 +55,6 @@ If you find an issue with this app or wish something to be added, let Telegram k
 ### Licensing
 
 The source code is licensed under GPL v3. License is available [here](/LICENSE).
+
+### Visualization
+![Visualization of this repo](./diagram.svg)
