@@ -184,6 +184,12 @@ export class AppSidebarLeft extends SidebarSlider {
         this.createTab(AppPeopleNearbyTab).open();
       }
     } : undefined, {
+      icon: 'wallet',
+      text: 'Wallet',
+      onClick: () => {
+        // this.createTab(AppSettingsTab).open();
+      }
+    }, {
       icon: 'settings',
       text: 'Settings',
       onClick: () => {

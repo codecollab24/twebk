@@ -861,6 +861,7 @@ const lang = {
   'NewGroup': 'New Group',
   'Contacts': 'Contacts',
   'SavedMessages': 'Saved Messages',
+  'Wallet': 'Wallet',
   'Settings': 'Settings',
   'SettingsHelp': 'Help',
   'General': 'General',
